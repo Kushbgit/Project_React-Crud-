@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "4694",
+      "rollno": "1901",
+      "name": "Kushagra",
+      "city": "Bhopal",
+      "course": "Bcom",
+      "fees": "4572"
+    },
+    {
+      "id": "642f",
+      "rollno": "7898",
+      "name": "bittu S",
+      "city": "Indore",
+      "course": "MBA",
+      "fees": "7897"
+    },
+    {
+      "id": "f215",
+      "rollno": "1212",
+      "name": "Praful",
+      "city": "Bhopal",
+      "course": "BBA",
+      "fees": "3644"
+    }
+  ]
+}
